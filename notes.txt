@@ -1,3 +1,8 @@
 Explain the largest common subsequence problem 
 
 it ask the logest common subsequence between two sprites. you can solve this recursively with memoization (and optimal subproblems) at O(mn) time. If the last value of two strings are the same, then the answer is L(n,m) = L(n-1,m-1) + 1. If tMake sure to have a cache, or else the time complexity will be 2 to the n
+
+What is a higher order componenet? 
+
+An advanced technique in React for reusing componenet logic. They take a wrapped componeent and create a new componeent, passing in needed data. 
+
