@@ -6,3 +6,10 @@ What is a higher order componenet?
 
 An advanced technique in React for reusing componenet logic. They take a wrapped componeent and create a new componeent, passing in needed data. 
 
+What is a higher order function? 
+
+A function that does at least one of the following: 
+
+takes one or more functions as arguments 
+returns a function as its result 
+
