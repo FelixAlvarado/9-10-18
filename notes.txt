@@ -13,3 +13,9 @@ A function that does at least one of the following:
 takes one or more functions as arguments 
 returns a function as its result 
 
+Explain longest increasing subsequece problem 
+
+Dynamic program solution: O(n^2):
+nest loops with another array that mentions that largest increasign sbubsequence as you're going through.
+Patience sort solution O(nlogn)
+
