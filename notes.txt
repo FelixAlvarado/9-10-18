@@ -19,3 +19,7 @@ Dynamic program solution: O(n^2):
 nest loops with another array that mentions that largest increasign sbubsequence as you're going through.
 Patience sort solution O(nlogn)
 
+What are render props? 
+
+
+remder props refers to a simple technique for sharing code between react compoenets using a props whose value is a function. A component with a render prop takes a function taht returns a react eleemnt and calls it instead of implementing its own render logic. 
